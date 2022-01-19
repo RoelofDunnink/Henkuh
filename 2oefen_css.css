@@ -1,0 +1,40 @@
+html {
+  text-align: center;
+}
+
+body {
+  color: #9932cc;
+  background-color: #a9a9a95b;
+  border: solid #006400;
+  background-image: url(Henke.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 10px;
+}
+
+header {
+  color: #f44;
+  background-color: #ffff44bb;
+  font-family: helvetica, tahoma, Verdana;
+  font-size: 15px;
+  text-align: center;
+  padding: 10px 10px;
+  margin: 30px 30px 5px;
+  border: 3px dashed #8b008b;
+  border-radius: 20px;
+}
+
+main {
+  background-color: #f0ffffc2;
+  border: dotted 4px #a52;
+  margin: 10px;
+  padding: 5px 15px;
+  border-radius: 40px;
+}
+footer {
+  border: solid 10px #00f;
+  margin: 100px 50px 30px;
+  border-radius: 20px;
+  border-style: groove;
+  background-color: rgba(0, 0, 0, 0.747);
+}
